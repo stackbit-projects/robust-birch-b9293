@@ -21,7 +21,7 @@ sections:
       background_color: blue
       background_image: images/Space-5.jpeg
       background_image_opacity: 100
-      background_image_size: auto
+      background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
     title: Features
