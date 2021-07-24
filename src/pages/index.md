@@ -59,10 +59,11 @@ sections:
             url: /features
             style: secondary
       - title: Website Development
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          We specialize in the JAMstack (Javascript, APIs, Markup) to create the
+          fastest, most user friendly sights available. JAM development allows
+          websites to load on user side, which **reduces the need for expensive
+          servers and greatly increases security,**
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
