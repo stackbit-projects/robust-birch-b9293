@@ -18,7 +18,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: white
       background_image: images/Space-4.jpeg
       background_image_opacity: 100
       background_image_size: cover
