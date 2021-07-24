@@ -7,7 +7,7 @@ sections:
       We focus on D2C eCommerce and SaaS startups. We have lean, no BS pricing.
       Prepare for liftoff in 3...2...1...
     actions:
-      - label: Learn More
+      - label: Lifto
         url: /features
         style: primary
       - label: Contact Us
