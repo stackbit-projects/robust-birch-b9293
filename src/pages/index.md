@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We build the rocket ship for your startup to take off.
-    subtitle: 'We focus on D2C ecommerce, SASS'
+    subtitle: 'We focus on D2C ecommerce, SaaS,'
     actions:
       - label: Learn More
         url: /features
