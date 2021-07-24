@@ -42,10 +42,14 @@ sections:
             url: /features
             style: secondary
       - title: eCommerce Strategy and Execution
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          We are pros at eCommerce. Whether you run a Shopify store, sell on
+          Amazon, or have your own hosted site, we've seen it all.
+
+
+          We have an **aggressive growth** history with eCommerce and have seen
+          up to **166% growth** year over year in store revenue,
+
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
