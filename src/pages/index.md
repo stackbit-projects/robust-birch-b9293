@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We build the rocket ship for your startup to take off.
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'We focus on D2C ecommerce, SASS'
     actions:
       - label: Learn More
         url: /features
