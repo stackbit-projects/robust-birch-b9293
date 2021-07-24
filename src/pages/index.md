@@ -31,8 +31,8 @@ sections:
           Most marketing efforts **suck**. Most agencies avoid failure like the
           plague (or COVID-19), but here at ISA, we aim to **fail fast, learn
           what works, and add rocket fuel.** If you want us to create and manage
-          your Google, Facebook, Instagram ad campaigns? We can do that. You
-          want Houston to solve your problem of brand recognition? Even better. 
+          basic ad campaigns? We can do that. You want Houston to solve your
+          problem of brand recognition? Even better.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
