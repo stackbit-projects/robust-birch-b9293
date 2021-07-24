@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Liftoff
         url: /features
-        style: link
+        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
